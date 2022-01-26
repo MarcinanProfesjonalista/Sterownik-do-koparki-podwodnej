@@ -1,5 +1,6 @@
 # Sterownik-do-koparki-podwodnej
-Sterownik użyty przy projekcie pojazdu cięzkiego zdalnie sterowanego. 
+Sterownik użyty przy projekcie pojazdu cięzkiego zdalnie sterowanego.
+<br/>
 <a href="https://github.com/MarcinanProfesjonalista/Sterownik-do-koparki-podwodnej/blob/main/Schematic_Shield%20ULN%20RPI_2022-01-26.png"><img src="https://github.com/MarcinanProfesjonalista/Sterownik-do-koparki-podwodnej/blob/main/Schematic_Shield%20ULN%20RPI_2022-01-26.png" height="100" width="100" ></a>
 <a href="https://github.com/MarcinanProfesjonalista/Sterownik-do-koparki-podwodnej/blob/main/PCB_PCB_Shield%20ULN%20RPI_2022-01-26(1).png"><img src="https://github.com/MarcinanProfesjonalista/Sterownik-do-koparki-podwodnej/blob/main/PCB_PCB_Shield%20ULN%20RPI_2022-01-26(1).png" height="100" width="100" ></a>
 
